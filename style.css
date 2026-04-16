@@ -404,24 +404,10 @@ body {
   height: 100%;
   object-fit: contain;
   background: #fff; /* 여백 생길 때 깔끔 */
-  margin-left: -25px; /* 👉 오른쪽으로 이동 */
+  margin-left: -45px; /* 👉 오른쪽으로 이동 */
 }
 
-/* 샤넬 립스틱 */
-.prada1 .imageWrap {
-  display: flex;
-  justify-content: center; /* 가로 중앙 */
-  align-items: center;     /* 세로 중앙 */
-  aspect-ratio: 1 / 1;
-}
 
-.prada1 .imageWrap img {
-  width: 85%;
-  height: 100%;
-  object-fit: contain;
-  background: #fff; /* 여백 생길 때 깔끔 */
-  margin-left: -5px; /* 👉 오른쪽으로 이동 */
-}
 
 
 /* 샤넬, 라메르 */
